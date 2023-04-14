@@ -401,6 +401,7 @@ section.what-are-we-doing {
     padding-bottom: 100px;
     width: 1440px;
     padding-right: 160px;
+    padding-left: 156px;
 }
 
 .footer-text-container{
@@ -409,7 +410,6 @@ section.what-are-we-doing {
 
 .footer-container{
     display: flex;
-    gap: 120px;
 }
 
 .footer-logo {
@@ -552,7 +552,7 @@ gap: 16px;
 }
 
 .footer-form-svg {
-
+    margin-left: 16px;
 }
 
 
@@ -685,11 +685,13 @@ gap: 16px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8E8F99;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
+    margin-right: auto;
 }
 
 .input-wrap{
     position: relative;
+    margin-bottom: 8px;
 }
 
 .modal-svg-ico{
@@ -741,6 +743,7 @@ gap: 16px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: rgba(117, 117, 117, 0.5);
+    margin-bottom: 16px;
 
 }
 
